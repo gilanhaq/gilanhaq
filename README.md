@@ -15,4 +15,4 @@ I am a Computer Science undergraduate student passionate about the world of tech
 <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
 
 ### My Stats 📊
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilanghaq&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilanhaq&layout=compact&theme=tokyonight"/>
