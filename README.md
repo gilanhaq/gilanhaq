@@ -1,8 +1,7 @@
 ## Hi, I'm Gilang 👋
-I am a Computer Science undergraduate student passionate about the world of technology, especially diving deep into mobile app development.
+A driven student with a background in computer science is looking for practical experience developing mobile applications and designing products. I bring to the table excellent people skills and the capacity to efficiently prioritize assignments. To improve the organizational brand, I work well under pressure and do best in settings where I can adjust to new difficulties.
 
-- 👨‍💻 I’m currently learning Flutter and Android Native
-- 📮 Get in touch with me at [my LinkedIn](https://www.linkedin.com/in/gilangk/)
+Get in touch with me at [my LinkedIn](https://www.linkedin.com/in/gilangk/)
 
 ### Mobile Dev 📱
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
