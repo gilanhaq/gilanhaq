@@ -1,5 +1,5 @@
 ## Hi, I'm Gilang 👋
-A driven student with a background in computer science is looking for practical experience developing mobile applications and designing products. I bring to the table excellent people skills and the capacity to efficiently prioritize assignments. To improve the organizational brand, I work well under pressure and do best in settings where I can adjust to new difficulties.
+A student of computer science with a strong interest in product design and mobile app development, a flair for public speaking, and a history of success in relevant projects and national competitions. Possessing strong leadership, teamwork, and management skills, I combine technical know-how with skillful communication to spark creativity and produce meaningful results.
 
 Get in touch with me at [my LinkedIn](https://www.linkedin.com/in/gilangk/)
 
