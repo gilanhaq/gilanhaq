@@ -1,7 +1,5 @@
 # Hi, I'm Gilang 🙋‍♂️
-A student of computer science with a strong interest in product design and mobile app development, a flair for public speaking, and a history of success in relevant projects and national competitions. Possessing strong leadership, teamwork, and management skills, I combine technical know-how with skillful communication to spark creativity and produce meaningful results.
-
-Get in touch with me at [my LinkedIn](https://www.linkedin.com/in/gilangk/)
+A computer science student with a passion for product design and mobile app development, skilled in public speaking, leadership, teamwork, and management.
 
 ## Tech Stacks 📱
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
