@@ -1,5 +1,5 @@
 # Hi, I'm Gilang 🙋‍♂️
-A computer science student with a passion for product design and mobile app development, skilled in public speaking, leadership, teamwork, and management, with a proven track record in projects and national competitions, combining technical expertise with effective communication to drive creativity and impactful results.
+I'm a computer science student passionate about mobile application development. With strong public speaking, leadership, and teamwork skills, I have a track record of success in projects and national competitions, blending technical expertise with effective communication to achieve creative and impactful results.
 
 ## Tech Toolbox 🧰
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
