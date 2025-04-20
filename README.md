@@ -1,5 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilanhaq&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilanhaq&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilanhaq&show_icons=true)
 
 <p align="center">
   <a href="https://skillicons.dev">
