@@ -3,4 +3,4 @@ I'm a computer science student passionate about mobile application development. 
 
 [![My Skills](https://skillicons.dev/icons?i=dart,kotlin,androidstudio,figma)](https://skillicons.dev)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilanhaq&layout=compact&theme=tokyonight"/>
+[(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={gilanhaq}&theme={transparent})]
